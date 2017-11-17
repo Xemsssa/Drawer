@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Drawer</string>
+
+    <string-array name="list">
+        <item>Home</item>
+        <item>Pizza</item>
+        <item>Pasta</item>
+        <item>Stores</item>
+        <item>Create Order</item>
+    </string-array>
+
+    <string-array name="pizza">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+
+    <string-array name="pasta">
+        <item>Spaghetti</item>
+        <item>Lasagne</item>
+    </string-array>
+
+    <string-array name="stores">
+        <item>NY</item>
+        <item>Boston</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_pizza">Pizza</string>
+    <string name="title_activity_pasta">Pasta</string>
+    <string name="title_activity_stores">Stores</string>
+</resources>
